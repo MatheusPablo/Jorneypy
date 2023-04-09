@@ -1,5 +1,5 @@
 import random
-      
+#MANIPULAÇÃO DE INPUTS E VALORES DE VARAIVEIS
 cpf = (str(input("Digite seu CPF")))
 cpfletras = len(cpf)
 print("seu cpf tem ", cpfletras, " caracteres")
