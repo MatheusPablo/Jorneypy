@@ -20,6 +20,8 @@ print(int(123.3))
 print(float(120))
 print(str(234 + 23))
 
+#Para verificar a classe utlizasse a seguinte função: tyoe()
+
 a = str(2+3)
 print(type(a))
 
